@@ -44,9 +44,9 @@ main{
     gap: 10px;
 }
 
-main img{
+#foto-principal{
     display: block;
-    width: 250px;
+    max-width: 300px;
 }
 
 #botoes{

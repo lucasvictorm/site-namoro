@@ -1,0 +1,9 @@
+@media (orientation: landscape) {
+    section#principal{
+        padding-top: 20px;
+        flex-direction: row;
+    }
+    #foto-principal{
+        width: 250px;
+    }
+}
